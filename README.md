@@ -14,7 +14,7 @@
 # 프로그래머스 - 정수 삼각형 [DP]
 문제출처 : https://programmers.co.kr/learn/courses/30/lessons/43105
 ```
-<div># Fastcampus 광고 문제 //이런 알고리즘 풀수있나요? 여기서 공부해보세요. 라는 광고표지 문제였음</div>
+# Fastcampus 광고 문제 //이런 알고리즘 풀수있나요? 여기서 공부해보세요. 라는 광고표지 문제였음
 ```
 
 출처 : Fastcampus.co.kr 
